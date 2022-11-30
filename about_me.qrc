@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resume">
+        <file>Resources/resume.jpg</file>
+    </qresource>
+</RCC>
